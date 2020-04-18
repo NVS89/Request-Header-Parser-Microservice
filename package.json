@@ -1,0 +1,24 @@
+{
+  "name": "request_header_parser_microservice",
+  "version": "1.0.0",
+  "description": "simple Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Request",
+    "Header",
+    "Parser",
+    "Microservice"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "author": "Nick Shchepetkov",
+  "license": "ISC"
+}
